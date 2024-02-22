@@ -54,15 +54,47 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielECN&hide_progress=true)
 
 ---
-### 📝 My works:
-<div align"center">
-<a href="https://danielecn.github.io/01Meet-and-Coffee/"><img src="https://i.ibb.co/mTc02Nq/sample.png" alt="sample" border="0" width="200" height="200" /></a>
-<a href="https://danielecn.github.io/02Iguana-Page/"><img src="https://i.ibb.co/k01Z71X/Screenshot-1.png" alt="Screenshot-1" border="0" width="200" height="200" /></a>
-<a href="https://danielecn.github.io/03Suricata/"><img src="https://i.ibb.co/C9djVDH/Screenshot-1.png" alt="Screenshot-1" border="0" width="200" height="200" /></a>
-<a href="https://danielecn.github.io/04Cuppon/"><img src="https://i.ibb.co/9N80z3y/Screenshot-1.png" alt="Screenshot-1" border="0" width="200" height="200" /></a>
-<a href="https://danielecn.github.io/05NotaFinal/"><img src="https://i.ibb.co/4jHdgD4/Screenshot-2.png" alt="Screenshot-2" border="0" width="200" height="200" /></a>
+<h2 align="center">📝 My projects as a student in bootcamps:</h2> 
 
+<div>
+    <p>Primer proyecto, pagina simple con HTML and CSS, describe una pagina de eventos y charlas sobre tecnologia.</p>
+<a href="https://danielecn.github.io/01Meet-and-Coffee/"><img src="https://i.ibb.co/mTc02Nq/sample.png" alt="sample" border="0" width="200" height="200" /></a>
 </div>
+
+<h2></h2> 
+
+<div>
+  <p>Pagina descriptiva simple de una iguana con HTML y CSS, contiene imagenes, fuentes de google e iconos de fontawesome, ademas que por algunos detalles del CSS es un poco mas responsiva que el primer proyecto.</p>
+<a href="https://danielecn.github.io/02Iguana-Page/"><img src="https://i.ibb.co/k01Z71X/Screenshot-1.png" alt="Screenshot-1" border="0" width="200" height="200" /></a>
+</div>
+
+<h2></h2> 
+
+<div>
+  <p>Pagina de menus de comida. En este caso ademas de HTML y CSS, se agrego un minimo de mediaquerys cuando el minimo de pixeles sea de 574 o menor y se implementa bootstrap para hacer la pagina mas responsiva con la metodologia mobilefirst. Tiene cards deck y navbar sacado de bootstrap y un boton hamburguesa.</p>
+<a href="https://danielecn.github.io/03Suricata/"><img src="https://i.ibb.co/C9djVDH/Screenshot-1.png" alt="Screenshot-1" border="0" width="200" height="200" /></a>
+</div>
+
+<h2></h2> 
+
+<div>
+  <p>Otra pagina simple de cupones de descuento, realizada con HTML y CSS usando componentes de bootstrap para hacerla ideal mobile first.</p>
+<a href="https://danielecn.github.io/04Cuppon/"><img src="https://i.ibb.co/9N80z3y/Screenshot-1.png" alt="Screenshot-1" border="0" width="200" height="200" /></a>
+</div>
+
+<h2></h2> 
+
+<div>
+  <p>Pequeña aplicación de javascript que calcula el promedio de las notas estudiantiles, nos pide nombre, carrera y tres materias con notas, lo que hace es promediar tres notas de las dos primeras materias y al ingresar las ultimas dos notas del ultimo ramo, nos indica que nota necesitamos para aprobar el ramo! </p>
+<a href="https://danielecn.github.io/05NotaFinal/"><img src="https://i.ibb.co/4jHdgD4/Screenshot-2.png" alt="Screenshot-2" border="0" width="200" height="200" /></a>
+</div>
+
+<h2></h2> 
+
+
+
+
+
 
 
 <!--
