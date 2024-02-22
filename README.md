@@ -11,6 +11,7 @@
   <a href="https://www.twitch.tv/bl00d_sin">
     <img src="https://img.shields.io/twitch/status/bl00d_sin?style=for-the-badge&logo=twitch&labelColor=%236441A5&color=%23B9A3E3"                 alt="Twitch Badge" />
   </a>
+  
       <a href="https://www.linkedin.com/in/daniel-cerda-nilo-6015a768/">
     <img src="https://img.shields.io/badge/Linked-In-blue"                 alt="LinkedIn" />
       </a>
