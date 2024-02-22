@@ -24,13 +24,13 @@
 
 ###  ✨About Me✨ :
 
-- 🌱 I’m currently learning Java
+- 🔧 I’m currently learning Java
   
-- 👯 I’m looking to collaborate on MercadoLibre
+- 🖱️ I’m looking to collaborate on MercadoLibre
   
 - 💬 Ask me about VideoGames
   
-- 📫 How to reach me **adrecolin@gmail.com**
+- 📬 How to reach me: **adrecolin@gmail.com**
 
 
 <div align"left">
