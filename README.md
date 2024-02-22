@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="200" />
-  <h1 align="center" > Hi there 👋, I'm DanielECN </h1>
+  <h1 align="center" > Hi there <img src="https://media.tenor.com/s6qI01PlPDYAAAAi/yoshi-egg.gif" width="40">, I'm DanielECN </h1>
   <h3 align="center">A passionate Android app developer from Chile. Great motivation to continue improving my skills and grow   
        professionally. I fully trust my ability to work as a team to achieve a common goal.
   </h3>
