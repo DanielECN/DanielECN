@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="200" />
-  <h1 align="center" > Hi there <img src="https://media.tenor.com/s6qI01PlPDYAAAAi/yoshi-egg.gif" width="40">, I'm DanielECN </h1>
-  <h3 align="center">I am a paramedic 💉 and a passionate Android app developer from Chile. Great motivation to continue improving my skills and grow
-       professionally. I fully trust my ability to work as a team to achieve a common goal.
+  <h1 align="center" > Hola! <img src="https://media.tenor.com/s6qI01PlPDYAAAAi/yoshi-egg.gif" width="40">, Soy DanielECN </h1>
+  <h3 align="center">Soy Técnico en enfermería y un apasionado estudiante para desarrollar aplicaciones para Android de Chile. Gran motivación para seguir mejorando mis habilidades y crecer.
+       profesionalmente. Confío plenamente en mi capacidad para trabajar en equipo para lograr un objetivo común.
 
     
   </h3>
@@ -22,19 +22,19 @@
 
 ---
 
-###  ✨About Me✨ :
+###  ✨ Sobre mi ✨ :
 
-- 🔧 I’m currently learning Java
+- 🔧 Actualmente estoy aprendiendo java.
   
-- 🖱️ I’m looking to collaborate on MercadoLibre
+- 💬 Me gustan los videojuegos.
+
+- 😄 Encargado de los deberes del hogar !!.
   
-- 💬 Ask me about VideoGames
-  
-- 📬 How to reach me: **adrecolin@gmail.com**
+- 📬 Mi correo es: **adrecolin@gmail.com**
 
 
 <div align"left">
-  <h3>🛠️ Languages and Tools:</h3>
+  <h3>🛠️ Lenguajes y herramientas:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAva" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Html5" width="40" height="40">
@@ -54,7 +54,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielECN&hide_progress=true)
 
 ---
-<h2 align="center">📝 My projects as a student in bootcamps:</h2> 
+<h2 align="center">📝 Mis proyectos como estudiantes en otros bootcamps:</h2> 
 
 <div>
     <p>Primer proyecto, pagina simple con HTML and CSS, describe una pagina de eventos y charlas sobre tecnologia.</p>
