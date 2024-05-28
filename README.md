@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="200" />
   <h1 align="center" > Hola! <img src="https://media.tenor.com/s6qI01PlPDYAAAAi/yoshi-egg.gif" width="40">, Soy DanielECN </h1>
-  <h3 align="center">Soy Técnico en enfermería y un apasionado estudiante para desarrollador de aplicaciones para Android de Chile. Gran motivación para seguir mejorando mis habilidades y crecer.
-       profesionalmente. Confío plenamente en mi capacidad para trabajar en equipo para lograr un objetivo común.
+  <h3 align="center"------------------
 
     
   </h3>
